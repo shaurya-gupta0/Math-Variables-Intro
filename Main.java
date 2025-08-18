@@ -33,7 +33,10 @@ class Main {
 
     //Create 3 variables of each of the above types (USE GOOD CODING PRACTICE WHEN CREATING THE VARIABLES
 
-
+    int x = 0;
+    boolean amI_A_Student = true;
+    boolean amI_A_Teacher = false;
+    double y = 30.303;
 
 
 
