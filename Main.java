@@ -38,6 +38,12 @@ class Main {
     boolean amI_A_Teacher = false;
     double y = 30.303;
 
+    System.out.println("wassuh gng");
+
+    lalala = "burger boy";
+    System.out.println(lalala);
+
+
 
 
     //MATH TIME!
