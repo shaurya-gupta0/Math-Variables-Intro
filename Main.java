@@ -84,7 +84,7 @@ class Main {
 
     //Starting at 1000, print on the same line (with a - [hypthen] between each) all of the numbers that end in 0 going down to 0
     System.out.println("All the numbers ending in 0 less than 1000");
-    for(int i=100; i>=1; i = i-1){
+    for(int i=99; i>=1; i = i-1){
       System.out.print(i*10 + ", ");
 
     }
